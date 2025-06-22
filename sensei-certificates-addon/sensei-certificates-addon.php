@@ -3,8 +3,8 @@
  * Plugin Name:         Sensei Certificates Addon
  * Description:         This plugin will create custom fields to be displayed in Sensei Certificates
  * Author:              #
- * Author URI:          https://wisdmlabs.com
- * Plugin URI:          https://wisdmlabs.com
+ * Author URI:          #
+ * Plugin URI:          #
  * Text Domain:         sensei-certificates-addon
  * Domain Path:         /languages
  * License:             GPLv3
